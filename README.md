@@ -7,8 +7,6 @@ The purpose of this study is to developing DL model for enegy demand forcast.
 The project can be accessed over at:
 -  Temporal fusion transfomer [https://arxiv.org/abs/1912.09363](https://arxiv.org/abs/1912.09363)
 -  N-beats [https://arxiv.org/abs/1905.10437](https://arxiv.org/abs/1905.10437)
--  DeepAR wolud be release. [Tentative] 
-
 
 
 ## 📝 Table of Contents
